@@ -1,0 +1,24 @@
+/*
+Theme Name: Novo 
+Theme URI: http://promo-theme.com/novo/
+Author: Promo Theme
+Author URI: http://themeforest.net/user/ypromo
+Description: We present you an Awesome Photography WordPress Theme. You can build a beautiful site, using 6 homepages. Much galleries, styles of blogs, and much much more make your site individual and creative.
+Version: 1.0.0
+License: GNU General Public License v2 or later
+License URI: LICENSE
+Text Domain: novo
+Template: novo
+
+*/
+
+header .logo img { width: 100px; }
+body .header-space { height: 120px; }
+header.fixed .logo img { width: 80px; }
+header .header-main-block .col { padding: 24px 15px; }
+header.fixed .header-main-block .col { padding: 10px 15px; }
+.banner .bg-overlay { background: rgba( 0, 0, 0, 0.2) } 
+.banner .top .sub-h , .banner h2, .banner .owl-prev, .banner .owl-next { color: white; }  
+.site-header.fixed-header.fixed {box-shadow: 0 -6px 4px 5px rgba(0,0,0,0.5) }
+.text-white .skill-item .chart figcaption { color: #ffffff; } 
+.preloader { display: none } 
